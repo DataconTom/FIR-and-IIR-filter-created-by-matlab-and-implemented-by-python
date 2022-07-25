@@ -8,7 +8,7 @@ Calling the filterDesigner in the MATLAB:
 ![image](https://github.com/DataconTom/FIR-and-IIR-filter-created-by-matlab-and-implemented-by-python/blob/main/pic/first_step.jpg)
 
 
-Using the filterDesigner to design the filter by setting parameters such as response type, design method, filter order, frequency specifications and so on:
+Using the filterDesigner to design the filter by setting parameters such as response type, design method and so on:
 ![image](https://github.com/DataconTom/FIR-and-IIR-filter-created-by-matlab-and-implemented-by-python/blob/main/pic/filter_designer.jpg)
 
 
