@@ -5,9 +5,9 @@ Introduction to how to use MATLAB to design FIR and IIR filters and apply into y
 
 ## Instruction about generating filter by MATLAB:
 Calling the filterDesigner in the MATLAB:
-![image](https://github.com/DataconTom/FIR-and-IIR-filter-created-by-matlab-and-implemented-by-python/pic/first_step.png)
+![image](https://github.com/DataconTom/FIR-and-IIR-filter-created-by-matlab-and-implemented-by-python/tree/main/pic/first_step.png)
 Using the filterDesigner to design the filter we needed by setting the parameters such as response type, design method, filter order, frequency specifications and so on:
-![image](https://github.com/DataconTom/FIR-and-IIR-filter-created-by-matlab-and-implemented-by-python/pic/filter_designer.png)
+![image](https://github.com/DataconTom/FIR-and-IIR-filter-created-by-matlab-and-implemented-by-python/tree/main/pic/filter_designer.png)
 Generating a FIR filter by using filterDesigner and export the coefficients:
 ![image](https://github.com/DataconTom/FIR-and-IIR-filter-created-by-matlab-and-implemented-by-python/pic/export.png)
 Showing the coefficient in the command window:
